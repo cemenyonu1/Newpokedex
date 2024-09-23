@@ -1,0 +1,83 @@
+/*#modal-container {
+    display: grid;
+}*/
+/*
+.new-button {
+    border-color: green;
+    border-width: 1px;
+    background-color: rgb(200, 199, 199);
+    padding-top: 20px;
+    padding-bottom: 20px;
+    padding-left: 60px;
+    padding-right: 60px;
+    margin-bottom: 10px;
+    font-size: 20px;
+}
+
+.new-button:hover {
+    background-color: lightgreen;
+}
+
+.pokedex {
+    align-items: center;
+}
+
+.pokemon-info {
+    background-color: white;
+    width: 25%;
+    height: 25%;
+    margin:auto;
+    overflow:auto;
+}
+
+.pokemon-list-modal {
+    display: none;
+}
+
+.pokemon-list-modal.is-visible{
+    position: fixed;
+    padding: 20px;
+    box-sizing: border-box;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    background: rgba(0,0,0,0.5);
+    z-index: 999;
+    overflow: auto;
+    display: grid;
+    text-align: center;
+}
+
+.modal.is-visible{
+    position: fixed;
+    padding: 20px;
+    box-sizing: border-box;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    background: rgba(0,0,0,0.5);
+    z-index: 999;
+    overflow: auto;
+    display: grid;
+    text-align: center;
+}
+
+.pokedex {
+    margin-top: 125px;
+}
+
+.modal {
+    margin-top: 125px;
+}
+
+/* Modal
+.pokemon-list {
+    display: none;
+}
+*/
+/* .pokemon-list-modal.is-visible {
+    display: none;
+    text-align: center;
+}*/

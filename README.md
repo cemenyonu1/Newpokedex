@@ -1,7 +1,7 @@
 # Pokemon Pokedex
 
 ## Description
-This project is a web application that was built using HTML, CSS, and Javascript. I t utilizes an external API call, provided by PokeAPI, to load information regarding different Pokemons such as a picture of the pokemon and its height.
+This project is a web application that was built using HTML, CSS, and Javascript. It utilizes an external API call, provided by PokeAPI, to load information regarding different Pokemons such as a picture of the pokemon and its height.
 
 ## Dependencies
 JQuery: https://code.jquery.com/jquery-3.3.1.js
